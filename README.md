@@ -14,4 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-scheele&show_icons=true&theme=highcontrast)](https://github.com/r-scheele/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-scheele&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/r-scheele/github-readme-stats) <br />       
+      [![r-scheele](https://github-readme-stats.vercel.app/api?username=r-scheele&show_icons=true&theme=highcontrast)](https://github.com/r-scheele/github-readme-stats) <br />
+starts <br />
+  from their physical selves. <br />
+
+
+   
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r-scheele&repo=picrush&show_icons=true&theme=cobalt)](https://github.com/r-scheele/picrush)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r-scheele&repo=rego_builder&show_icons=true&theme=highcontrast)](https://github.com/r-scheele/rego_builder)
+
+
+

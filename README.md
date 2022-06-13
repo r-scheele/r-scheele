@@ -1,4 +1,4 @@
-### Hi there 👋 You're in the right spot.
+### Hi there 😊.
 
 <!--
 **r-scheele/r-scheele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-scheele&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/r-scheele/github-readme-stats) <br />       
-      [![r-scheele](https://github-readme-stats.vercel.app/api?username=r-scheele&show_icons=true&theme=highcontrast)](https://github.com/r-scheele/github-readme-stats) <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-scheele&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/r-scheele/github-readme-stats) <br
 
 
 
    
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r-scheele&repo=picrush&show_icons=true&theme=cobalt)](https://github.com/r-scheele/picrush)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=r-scheele&repo=rego_builder&show_icons=true&theme=highcontrast)](https://github.com/r-scheele/rego_builder)
- -->
+<!-- [![Readme 
 
 

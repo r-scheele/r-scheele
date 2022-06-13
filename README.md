@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
    
 
-<!-- [![Readme 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-scheele&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/r-scheele/github-readme-stats) <br
+
 
 
